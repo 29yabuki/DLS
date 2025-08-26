@@ -6,8 +6,8 @@ This repository of handcrafted notebooks and personal solutions to the exercises
 
 ### Prerequisites
 
-- [Python 3.10+](https://www.python.org/)
-- [Jupyter Notebook](https://jupyter.org/)
+- Python 3.10+
+- Jupyter Notebook
 
 ### Installation
 
@@ -16,18 +16,18 @@ This repository of handcrafted notebooks and personal solutions to the exercises
     git clone https://github.com/29yabuki/DLS.git
     cd DLS
     ```
-2. (Optional) Create and activate a Python virtual environment.
+2. Create and activate a Python virtual environment.
 3. Install any required dependencies as listed in individual notebook cells.
 
 ## Built With
 
 - Python
 - Jupyter Notebook
-- NumPy, pandas, matplotlib, sklearn, etc.
+- NumPy, matplotlib, sklearn, etc.
 
 ## Authors
 
-- Sean Luigi Caranzo ([29yabuki](https://github.com/29yabuki))
+- Sean Luigi Caranzo - Initial work - ([29yabuki](https://github.com/29yabuki))
 
 ## License
 
