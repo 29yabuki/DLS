@@ -6,12 +6,11 @@ This repository of handcrafted notebooks and personal solutions to the exercises
 
 This repository contains personal notes for each of the courses.
 
-| Course | Notes |
-|--------|-------|
-| C1 | [C1/notes](./C1/notes) |
-| C2 | [C2/notes](./C2/notes) |
-| C3 | [C3/notes](./C3/notes) |
-| C5 | [C5/notes](./C5/notes) |
+- [Course 1](./C1/notes)
+- [Course 2](./C2/notes)
+- [Course 3](./C3/notes)
+- Course 4 (soon)
+- [Course 5](./C5/notes) (incomplete)
 
 ### Prerequisites
 
