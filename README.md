@@ -4,6 +4,15 @@ This repository of handcrafted notebooks and personal solutions to the exercises
 
 ## Getting Started
 
+This repository contains personal notes for each of the courses.
+
+| Course | Notes |
+|--------|-------|
+| C1 | [C1/notes](./C1/notes) |
+| C2 | [C2/notes](./C2/notes) |
+| C3 | [C3/notes](./C3/notes) |
+| C5 | [C5/notes](./C5/notes) |
+
 ### Prerequisites
 
 - Python 3.10+
@@ -23,7 +32,6 @@ This repository of handcrafted notebooks and personal solutions to the exercises
 
 - Python
 - Jupyter Notebook
-- NumPy, matplotlib, sklearn, etc.
 
 ## Authors
 
